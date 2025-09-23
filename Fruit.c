@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    puts("Вишенка");
     printf("        .       \n");
     printf("       / \\      \n");
     printf("      /   \\     \n");
